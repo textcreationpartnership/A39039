@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The execution and confessions of the seven prisoners executed at Tyburn on Friday the 19th of December, 1679 Viz. John Parker, for high-treason. Benjamin Penry, for robbery on the highway. John Dell, of Edger, for stealing a mare; but tryed for several murders, first of his wife's brother, then of her father, and lately of his said wife her self. Richard Dean, heretofore his servant, condemned with him for the same felony, but supposed to be equally guilty with him in all the said murders. William Atkins, Susan White, and Deborah Rogers, for several felonies, being all old offenders. With a particular account of the said John Dell's impenitent and refractory behaviour after sentence of death pass'd upon him, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39039</idno>
+            <idno type="STC">Wing E3849</idno>
+            <idno type="STC">ESTC R215581</idno>
+            <idno type="EEBO-CITATION">99827418</idno>
+            <idno type="PROQUEST">99827418</idno>
+            <idno type="VID">31836</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39039)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31836)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2170:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The execution and confessions of the seven prisoners executed at Tyburn on Friday the 19th of December, 1679 Viz. John Parker, for high-treason. Benjamin Penry, for robbery on the highway. John Dell, of Edger, for stealing a mare; but tryed for several murders, first of his wife's brother, then of her father, and lately of his said wife her self. Richard Dean, heretofore his servant, condemned with him for the same felony, but supposed to be equally guilty with him in all the said murders. William Atkins, Susan White, and Deborah Rogers, for several felonies, being all old offenders. With a particular account of the said John Dell's impenitent and refractory behaviour after sentence of death pass'd upon him, &amp;c.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Title words: "William Atkins, ... Rogers," joined by a right brace.</note>
+                  <note>Copy filmed has print show-through.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:31836:1" rendition="simple:additions"/>
+            <head>THE EXECUTION and CONFESSIONS OF THE Seven Priſoners Executed at TYBURN On <hi>Friday</hi> the 19th of <hi>December,</hi> 1679.</head>
+            <head type="sub">VIZ.
+<list>
+                  <item>
+                     <hi>John Parker,</hi> for High-Treaſon.</item>
+                  <item>
+                     <hi>Benjamin Penry,</hi> for Robbery on the Highway.</item>
+                  <item>
+                     <hi>John Dell,</hi> of <hi>Edger,</hi> for ſtealing a Mare; but tryed for ſeveral Murders, firſt of his Wife's Brother, then of her Father, and lately of his ſaid Wife her ſelf.</item>
+                  <item>
+                     <hi>Richard Dean,</hi> heretofore his Servant, condemned with him for the ſame Felony, but ſuppoſed to be equally guilty with him in all the ſaid Murders.</item>
+                  <item>
+                     <hi>William Atkins, Suſan White,</hi> and <hi>Deborah Rogers,For ſeveral Felonies, being all old Offenders.</hi>
+                  </item>
+               </list>
+WITH A particular Account of the ſaid <hi>John Dell</hi>'s impenitent and refractory Behaviour after Sentence of Death paſs'd upon him, <hi>&amp;c.</hi>
+            </head>
+            <p>AT the laſt Seſſions for <hi>London</hi> and <hi>Middleſex,</hi> ending on <hi>Saturday</hi> the 13th of this inſtant <hi>December,</hi> there were in all Eleven perſons (ſix men and five women) that recei<g ref="char:EOLhyphen"/>ved Sentence of Death; of whom Four, <hi>viz. Jane Cragnel, Anne Side, James Rawlins,</hi> and <hi>Sarah Bennifield,</hi> alias <hi>Bodington,</hi> obtained his Majeſties gracious Reprieve.</p>
+            <pb n="2" facs="tcp:31836:2"/>
+            <p>As for the reſt that ſuffered, we ſhall give the Reader a true and impartial account both of their Crimes and Deportment after Con<g ref="char:EOLhyphen"/>demnation.</p>
+            <p>
+               <hi>John Parker</hi> was by Trade a Watch-maker, and 'tis ſaid a moſt in<g ref="char:EOLhyphen"/>genious Artiſt in that Profeſſion; but happening long ſince into Ill Company, he has for many years followed thoſe miſchievous pra<g ref="char:EOLhyphen"/>ctices of Clipping and Coyning, whereby the whole Nation is moſt horribly, and more of late than ever, abuſed and defrauded. He had a Brother of the ſame bad Principles, for which he had three or four times been queſtioned; as likewiſe this man had once been try<g ref="char:EOLhyphen"/>ed and convicted of the like Offences at <hi>Salisbury,</hi> though there he evaded Execution. The Fact at preſent was fully proved upon him by an ocular Witneſs; and when Sentence of Death paſſed upon him, he was the onely perſon that deſired time to fit and prepare himſelf to die; which both to him and the reſt was charitably gran<g ref="char:EOLhyphen"/>ted. After his Conviction, two perſons coming to viſit him, were detained; whether charged by him, or otherwiſe, we ſhall not ſay. He ſeem'd all along to comfort himſelf with hopes of a Pardon, having (as 'tis ſaid) obtained one for his Brother heretofore in the ſame Circumſtances, by preſenting a Watch of exquiſite workman<g ref="char:EOLhyphen"/>ſhip to a Woman of mighty Prevalency. But as he had led an ill life, ſo his Deportment was now ſuitable, rather buſied for a Re<g ref="char:EOLhyphen"/>prieve from man, than pardoning Mercy from God.</p>
+            <p>
+               <hi>Benjamin Penry</hi> was a very ſtout portly man, prov'd to be a no<g ref="char:EOLhyphen"/>torious Highway-man, and Companion with <hi>French</hi> who was exe<g ref="char:EOLhyphen"/>cuted laſt Seſſions; with whom he was taken in <hi>Iſlington</hi>-Town on the Lords<g ref="char:punc">▪</g> day, where being (as 'tis believed) in drink, they made an Aſſault on a young man, with an intention (as 'tis probable) to rob him of an Horſe of great value; for which Miſdemeanour be<g ref="char:EOLhyphen"/>ing committed, other things came againſt them, and particularly this <hi>Penry</hi> was found guilty of robbing a Gentleman on <hi>Bag-ſhot-heath.</hi> As he was a man of Confidence, ſo he behaved himſelf with an un<g ref="char:EOLhyphen"/>toward, at leaſt unchriſtian kind of Reſolution. He had a woman indicted with him, whom he call'd Wife, one Mrs. <hi>White,</hi> formerly condemned for Clipping; ſhe endeavoured to bring him to confeſs others of the Gang, but as far as we hear, without much effect.</p>
+            <p>The next was the notorious <hi>John Dell,</hi> lately living at <hi>Edger</hi> in <hi>Middleſex,</hi> of whom common Fame has given ſuch a report, as may excuſe us from enlarging. He and his Companion <hi>Richard Dean,</hi> formerly his Servant, heretofore Tryed for the Murder of the ſaid <hi>Dell</hi>'s Wives Brother, a Tanner, whoſe Body about a Year ago was found near <hi>Redlion-fields,</hi> were this Seſſions Tryed, firſt for Murdering his the ſaid <hi>Dell</hi>'s Wife; and next day, for Murdering one <hi>Daniel Ball</hi> her Father. The Circumſtances on each were very preſſing, and (as Mr. Recorder excellently ob<g ref="char:EOLhyphen"/>ſerved) in the judgment of moſt Auditors, ſeem'd to want rather Proof than Truth: However, they were thereof found Not Guilty;
+<pb n="3" facs="tcp:31836:2"/>but afterwards Condemn'd for ſtealing a Mare. The Behaviour of this <hi>Dell</hi> after Sentence was very ſad and extraordinary; he ſeem'd to have no kinde of Remorſe for his Sins in general, or Senſe of his approaching End; but rather added to the former Suſpicions: For when ſoon after Condemnation, by the prudent care of the Court, <hi>Dean</hi> was ordered to be taken out of his company, and kept apart, he ſeemed to be much troubled at it; and calling for Ale, whiſper'd to the Boy that brought it, to commend him to the ſaid <hi>Dean,</hi> and tell him, that poſſibly he might be put to the Tor<g ref="char:EOLhyphen"/>ture, but however he ſhould be ſure <hi>to ſtand his Ground.</hi> When the other Priſoners went to Prayers, he would retire into a corner, wrap himſelf up in his Cloak, and refuſe to joyn with them, ſaying, <hi>He could not pray.</hi> Even at Chappel, the Miniſter endeavouring to reach their Conſciences by a particular Application, and treating of the heinouſneſs of the ſin of Murder, this <hi>Dell</hi> inſolently inter<g ref="char:EOLhyphen"/>rupted him in the publick Congregation, ſaying, <hi>Who do you ſpeak to? Why do you direct your diſcourſe to me?</hi> or ill irreverent words to that effect. Beſides the unwearied pains taken by Mr. Ordinary, ſeveral other able Miniſters were ſent, or led by Charity to viſit him, but he ſullenly received them; and to one diſcourſing of the two future ſtates, <hi>Heaven</hi> and <hi>Hell,</hi> with a ſcoffing kind of Atheiſtical humour, he replied, <hi>Heaven! There is not one of a thouſand goes to Heaven, why talk you to me of Heaven?</hi> Another time he re<g ref="char:EOLhyphen"/>fuſed to be uncovered at Religious Worſhip, ſcoffingly ſaying, He ſhould catch cold, or a Chine-cough, if he pull'd off his Hat; with ſeveral other marks of a deplorable Impenitency.</p>
+            <p>As for <hi>John Dean,</hi> though he behaved himſelf not ſo moroſely and untowardly, but would often confeſs in general terms that he had been a very great Sinner, yet could not he by any pains of the Miniſters be brought to acknowledge the Murders whereof they were both ſo violently ſuſpected as aforeſaid. 'Tis believed, that being only found Guilty of Felony for ſtealing the Mare, and for want of Legal Proof acquitted of the other matters, might harden their hearts to deny their other Crimes, hoping that for ſo ſmall an one they might eaſily obtain a Pardon. So ſollicitous are bad men to prolong a <hi>miſerable,</hi> and at beſt <hi>uncertain</hi> Life <hi>here,</hi> for a few moments, though thereby they incur eternal Death and never-ending Torments in the World to come. For let all ſtubborn Sin<g ref="char:EOLhyphen"/>ners know, that however with Hypocritical pretences to Innocence or Jeſuitical Impudence they may conceal from, or forſwear their Villanies unto Men, yet there is a moſt Juſt and All ſeeing God, from whom nothing can be hid, and who will not always be moc<g ref="char:EOLhyphen"/>ked; but certainly, though ſometimes ſlowly, and after a long and ſeeming proſperous Carreer in Wickedneſs, will call them to a ſevere Account, and pour forth to the full his dreadful Indigna<g ref="char:EOLhyphen"/>tion upon them.</p>
+            <pb n="4" facs="tcp:31836:3"/>
+            <p>On this preſent <hi>Friday</hi> the 19th of <hi>December, Parker</hi> was drawn from <hi>Newgate</hi> on a Sled with four Horſes: He behaved himſelf very penitently, holding a Book in his hand, and often elevated his eyes to Heaven. <hi>Dell, Atkins,</hi> and <hi>Penry</hi> were carried in one Cart: The two women in another, of whom one was whipped but the very laſt Seſſions: And <hi>Dean</hi> in a Cart by himſelf; He ſeemed a poor ſorry fellow, but had often been concerned in Rogueries, and without doubt had been a Confederate with his Maſter <hi>Dell</hi> in many of his late horrid Crimes. However, in his Paſſage he demean'd himſelf with much more ſhew of Penitence than the other, and it was well hoped that he would make an ingenuous Confeſſion.</p>
+            <p>Mr. <hi>Dell</hi> continued obſtinate to the laſt, and in the Morning be<g ref="char:EOLhyphen"/>fore he went out of <hi>Newgate,</hi> the Ordinary preſſing him to a Con<g ref="char:EOLhyphen"/>feſſion, he impiouſly anſwered, <hi>What ſhall I confeſs for, it is not in your Power to Pardon me?</hi> Nor did he at the place of Execu<g ref="char:EOLhyphen"/>tion own any thing, nor indeed could be induced to ſpeak; but in a ſtupid manner was Executed.</p>
+            <p>
+               <hi>Parker</hi> appeared very penitent, and gave away his Book before he came to <hi>Tyburn</hi> to an Acquaintance of his.</p>
+            <p>The Highway-man Mr. <hi>Penry,</hi> died very compoſedly, and juſt be<g ref="char:EOLhyphen"/>fore his death, in ſpight of all his Reſolutions, the Tears ran down his cheeks.</p>
+            <p>
+               <hi>Atkins,</hi> who ſuffered for being a Pickpocket and a great Practi<g ref="char:EOLhyphen"/>tioner that way, ſeemed alſo to be mindful of his latter End.</p>
+            <p>
+               <hi>Dean</hi> was kept alive till all the reſt were executed, and Captain <hi>Richardſon</hi> very worthily, and with incomparable earneſt Expreſſions, importun'd him to a Confeſſion; and once he was, as it were, turn'd off, but ſtopt; and then he did ſay, <hi>That he verily believed</hi> Dell <hi>was guilty of the Murder of his Wife:</hi> but would not acknowledge that he himſelf was concern'd. And ſo he was likewiſe executed.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
